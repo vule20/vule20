@@ -1,6 +1,6 @@
 ### I'm Vu
 
-Systems researcher focused on performance enhancement for AI and scientific workloads. ✨
+Systems researcher focused on performance at the computer architecture level for AI and scientific workloads. ✨
 
 - 🎓 Current: CS PhD at [UMass Amherst](https://www.cics.umass.edu) + affiliated PhD at [Berkeley Lab](https://lbl.gov).
 - 🔬 Focus: Hardware–software co-design and heterogeneous computing — AI Engines, FPGAs, scheduling, offloading, and hard real-time inference (physical AI & quantum state classification).
