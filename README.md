@@ -1,6 +1,6 @@
 ### I'm Vu
 
-Systems researcher focused on performance acceleration at the computer architecture level for real time AI and scientific workloads
+Systems researcher focused on performance acceleration at the computer architecture and silicon level for real time AI and scientific workloads
 by leveraging adaptive computing and AI engine to break bottlenecks in ML systems✨
 
 - 🎓 Current: CS PhD at [UMass Amherst](https://www.cics.umass.edu) + affiliated PhD at [Berkeley Lab quantum](https://www.lbl.gov/research/quantum/).
