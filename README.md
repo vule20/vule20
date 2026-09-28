@@ -1,7 +1,7 @@
 ### I'm Vu
 
 Systems researcher focused on performance acceleration at the computer architecture and silicon level for real time AI and scientific workloads
-by leveraging adaptive computing and AI engine to break bottlenecks in ML systems✨ I love solving performance bottlenecks in computer systems!
+by leveraging adaptive computing and AI engine to break bottlenecks in ML systems✨ I love solving performance bottlenecks with computer systems!
 
 - 🎓 Current: CS PhD at [UMass Amherst](https://www.cics.umass.edu) + affiliated PhD at [Berkeley Lab quantum](https://www.lbl.gov/research/quantum/).
 - 🔬 Focus: Hardware–software co-design and heterogeneous computing — AI Engines, FPGAs, scheduling, offloading, and hard real-time inference (physical AI & quantum state classification).
